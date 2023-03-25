@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:sam:arduino_due_x",
+    "name": "Arduino Due (Native USB Port)",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
